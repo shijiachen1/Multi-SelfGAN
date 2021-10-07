@@ -57,4 +57,5 @@ python train_derived.py \
 ## Acknowledgement
 1. Inception Score code from [OpenAI's Improved GAN](https://github.com/openai/improved-gan/tree/master/inception_score) (official).
 2. FID code and CIFAR-10 statistics file from [https://github.com/bioinf-jku/TTUR](https://github.com/bioinf-jku/TTUR) (official).
+3. Thanks codes from AutoGAN [https://github.com/TAMU-VITA/AutoGAN](https://github.com/TAMU-VITA/AutoGAN)
 
